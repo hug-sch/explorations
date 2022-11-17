@@ -1,6 +1,6 @@
 baseURL = "https://hugsch-explorations.netlify.app"
 title = "Explorations"
-description = "A Docsy example site"
+description = "Explorations in open-source software"
 weight = 1
 
 # Language settings
