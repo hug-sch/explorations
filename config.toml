@@ -4,7 +4,7 @@ description = "Explorations in open-source software"
 weight = 1
 
 # Language settings
-contentDir = "content"
+contentDir = "content/en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
