@@ -1,9 +1,9 @@
 ---
-title: "Hugsch Blog"
-linkTitle: "Blog"
+title: "Posts"
+linkTitle: "Posts"
 menu:
   main:
-    weight: 30
+    weight: 20
 ---
 
 

@@ -1,7 +1,7 @@
 
 ---
-title: "VSE Documentation"
-linkTitle: "VSE Docs"
+title: "Video Editing"
+linkTitle: "Video Editing"
 weight: 10
 cascade:
   - type: "docs"
